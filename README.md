@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/daniel-nolasco-gonzalez/">Daniel Nolasco G </a>'s Cybersecurity & SOC Analyst Portfolio | Security Operations Labs🔐
+# <a href="https://www.linkedin.com/in/daniel-nolasco-gonzalez/">Daniel Nolasco G </a> Cybersecurity & SOC Analyst Portfolio | Security Operations Labs🔐
 
 Cybersecurity professional with an IT support and systems administration background, focused on Security Operations, Threat Detection, Incident Response, and Vulnerability Management.
 
